@@ -1,6 +1,6 @@
 # Fenne Messenger
 
-A simple minimalistic Messenger Wrapper client with nifty features.
+A simple minimalistic Messenger Wrapper client with nifty features.  
 This repository serves as the official Homebrew Tap and Release host.
 
 ## Installation
