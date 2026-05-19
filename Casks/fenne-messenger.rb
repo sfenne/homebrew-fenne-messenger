@@ -1,7 +1,8 @@
 cask "fenne-messenger" do
-  version "1.0.0"
+  version "1.0.1"
   sha256 "9ab2859f5b54dc8a7f2bc33d47d01f4a73d0ea0cf39f5b863abb3aa8006eef71"
-  url "https://github.com/sfenne/homebrew-fenne-messenger/releases/download/v#{version}/Fenne-Messenger-mac-universal.dmg"
+  url "https://github.com/sfenne/homebrew-fenne-messenger/releases/download/v#{version}/Fenne-Messenger-mac-universal.dmg",
+      verified: "github.com/sfenne/homebrew-fenne-messenger/"
   name "Fenne Messenger"
   desc "A simple and minimalistic Messenger Wrapper client with nifty features."
   homepage "https://fenne.it"
